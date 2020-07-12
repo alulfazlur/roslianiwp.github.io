@@ -2,10 +2,10 @@
 ### made by [Rosliani](https://github.com/roslianiwp) and [Fazlur Rahman](https://github.com/alulfazlur) with JavaScript DOM
 
 # Trello Clone Project (Front End)
-https://trello.fazlurtech.my.id
+https://roslianiwp.github.io
 
 ## Description
-This project is a game project. We ([Rosliani](https://github.com/roslianiwp) and [Fazlur](https://github.com/alulfazlur)) made this game by using JavaScript DOM.
+This project is a game project. We ([Rosliani](https://github.com/roslianiwp) and [Fazlur](https://github.com/alulfazlur)) make typing game with sheep as its icon and Harvest Moon as UI references. We made this game by using JavaScript DOM.
 ![Apps preview](/src/images/image.png)
 
 ## Purpose
